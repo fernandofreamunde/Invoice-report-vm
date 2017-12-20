@@ -1,0 +1,6 @@
+192.168.33.1 - - [20/Dec/2017:02:49:20 +0000] "GET / HTTP/1.1" 200 3525 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"
+192.168.33.1 - - [20/Dec/2017:02:49:20 +0000] "GET /icons/ubuntu-logo.png HTTP/1.1" 200 3623 "http://invoice-app.dev/" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"
+192.168.33.1 - - [20/Dec/2017:02:49:20 +0000] "GET /favicon.ico HTTP/1.1" 404 506 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"
+192.168.33.1 - - [20/Dec/2017:02:49:20 +0000] "GET /favicon.ico HTTP/1.1" 404 506 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"
+192.168.33.1 - - [20/Dec/2017:02:49:28 +0000] "GET /info..php HTTP/1.1" 404 505 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"
+192.168.33.1 - - [20/Dec/2017:02:49:32 +0000] "GET /info.php HTTP/1.1" 200 274 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:57.0) Gecko/20100101 Firefox/57.0"

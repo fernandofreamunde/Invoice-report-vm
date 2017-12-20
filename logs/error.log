@@ -1,0 +1,86 @@
+[Wed Dec 20 17:04:49.250717 2017] [mpm_event:notice] [pid 8333:tid 139649004025728] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:04:49.250984 2017] [core:notice] [pid 8333:tid 139649004025728] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:04:52.233281 2017] [mpm_event:notice] [pid 8333:tid 139649004025728] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:04:53.303668 2017] [mpm_event:notice] [pid 8551:tid 139900329314176] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:04:53.303830 2017] [core:notice] [pid 8551:tid 139900329314176] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:05:51.299082 2017] [mpm_event:notice] [pid 8551:tid 139900329314176] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:05:52.405433 2017] [mpm_prefork:notice] [pid 16735] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:05:52.405688 2017] [core:notice] [pid 16735] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:05:54.534369 2017] [mpm_prefork:notice] [pid 16735] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:05:56.004350 2017] [mpm_prefork:notice] [pid 16848] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:05:56.004727 2017] [core:notice] [pid 16848] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:06:06.753425 2017] [mpm_prefork:notice] [pid 16848] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:06:08.684336 2017] [mpm_prefork:notice] [pid 22061] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:06:08.684681 2017] [core:notice] [pid 22061] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:06:09.471341 2017] [mpm_prefork:notice] [pid 22061] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:06:10.300036 2017] [mpm_prefork:notice] [pid 22118] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:06:10.300388 2017] [core:notice] [pid 22118] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:06:11.864936 2017] [mpm_prefork:notice] [pid 22118] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:06:12.934662 2017] [mpm_prefork:notice] [pid 22180] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:06:12.934937 2017] [core:notice] [pid 22180] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:50:54.770200 2017] [mpm_event:notice] [pid 8341:tid 140613104252800] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:50:54.770428 2017] [core:notice] [pid 8341:tid 140613104252800] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:50:57.500351 2017] [mpm_event:notice] [pid 8341:tid 140613104252800] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:50:58.587975 2017] [mpm_event:notice] [pid 8559:tid 140585452926848] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:50:58.588157 2017] [core:notice] [pid 8559:tid 140585452926848] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:51:44.686445 2017] [mpm_event:notice] [pid 8559:tid 140585452926848] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Dec 20 17:51:44.867918 2017] [mpm_event:notice] [pid 8559:tid 140585452926848] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:51:44.868098 2017] [core:notice] [pid 8559:tid 140585452926848] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:51:51.995390 2017] [mpm_event:notice] [pid 8559:tid 140585452926848] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:51:53.057012 2017] [mpm_prefork:notice] [pid 17072] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:51:53.057272 2017] [core:notice] [pid 17072] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:51:55.079834 2017] [mpm_prefork:notice] [pid 17072] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:51:56.180997 2017] [mpm_prefork:notice] [pid 17185] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:51:56.181183 2017] [core:notice] [pid 17185] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:58:32.634093 2017] [mpm_event:notice] [pid 8324:tid 140028669007744] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:58:32.634373 2017] [core:notice] [pid 8324:tid 140028669007744] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:58:35.158950 2017] [mpm_event:notice] [pid 8324:tid 140028669007744] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:58:36.233624 2017] [mpm_event:notice] [pid 8541:tid 140666546108288] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:58:36.233815 2017] [core:notice] [pid 8541:tid 140666546108288] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:59:25.301696 2017] [mpm_event:notice] [pid 8541:tid 140666546108288] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Dec 20 17:59:25.312787 2017] [mpm_event:notice] [pid 8541:tid 140666546108288] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:59:25.313731 2017] [core:notice] [pid 8541:tid 140666546108288] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:59:31.933627 2017] [mpm_event:notice] [pid 8541:tid 140666546108288] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 17:59:33.008506 2017] [mpm_prefork:notice] [pid 17057] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:59:33.008666 2017] [core:notice] [pid 17057] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:59:35.537260 2017] [mpm_prefork:notice] [pid 17057] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:59:36.781844 2017] [mpm_prefork:notice] [pid 17170] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:59:36.782031 2017] [core:notice] [pid 17170] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:59:42.430417 2017] [mpm_prefork:notice] [pid 17170] AH00171: Graceful restart requested, doing restart
+[Wed Dec 20 17:59:42.569850 2017] [mpm_prefork:notice] [pid 17170] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:59:42.570140 2017] [core:notice] [pid 17170] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 17:59:57.234784 2017] [mpm_prefork:notice] [pid 17170] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 17:59:59.071870 2017] [mpm_prefork:notice] [pid 23576] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 17:59:59.072062 2017] [core:notice] [pid 23576] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:00:00.485407 2017] [mpm_prefork:notice] [pid 23576] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:00:01.295499 2017] [mpm_prefork:notice] [pid 23635] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:00:01.295710 2017] [core:notice] [pid 23635] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:00:03.140324 2017] [mpm_prefork:notice] [pid 23635] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:00:04.178301 2017] [mpm_prefork:notice] [pid 23697] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:00:04.179788 2017] [core:notice] [pid 23697] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:14:25.492156 2017] [mpm_event:notice] [pid 8319:tid 139630789838720] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:14:25.492881 2017] [core:notice] [pid 8319:tid 139630789838720] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:14:28.852002 2017] [mpm_event:notice] [pid 8319:tid 139630789838720] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 18:14:29.917388 2017] [mpm_event:notice] [pid 8536:tid 139982159497088] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:14:29.917538 2017] [core:notice] [pid 8536:tid 139982159497088] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:15:31.360240 2017] [mpm_event:notice] [pid 8536:tid 139982159497088] AH00493: SIGUSR1 received.  Doing graceful restart
+[Wed Dec 20 18:15:31.369800 2017] [mpm_event:notice] [pid 8536:tid 139982159497088] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:15:31.369965 2017] [core:notice] [pid 8536:tid 139982159497088] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:15:37.530040 2017] [mpm_event:notice] [pid 8536:tid 139982159497088] AH00491: caught SIGTERM, shutting down
+[Wed Dec 20 18:15:38.614257 2017] [mpm_prefork:notice] [pid 17053] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:15:38.614447 2017] [core:notice] [pid 17053] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:15:40.349113 2017] [mpm_prefork:notice] [pid 17053] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:15:41.443249 2017] [mpm_prefork:notice] [pid 17166] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:15:41.443619 2017] [core:notice] [pid 17166] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:15:46.773385 2017] [mpm_prefork:notice] [pid 17166] AH00171: Graceful restart requested, doing restart
+[Wed Dec 20 18:15:46.949223 2017] [mpm_prefork:notice] [pid 17166] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:15:46.949509 2017] [core:notice] [pid 17166] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:16:01.758206 2017] [mpm_prefork:notice] [pid 17166] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:16:03.632578 2017] [mpm_prefork:notice] [pid 23573] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:16:03.632730 2017] [core:notice] [pid 23573] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:16:04.792083 2017] [mpm_prefork:notice] [pid 23573] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:16:05.862862 2017] [mpm_prefork:notice] [pid 23634] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:16:05.863012 2017] [core:notice] [pid 23634] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Dec 20 18:16:07.659320 2017] [mpm_prefork:notice] [pid 23634] AH00169: caught SIGTERM, shutting down
+[Wed Dec 20 18:16:08.756005 2017] [mpm_prefork:notice] [pid 23697] AH00163: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Wed Dec 20 18:16:08.756308 2017] [core:notice] [pid 23697] AH00094: Command line: '/usr/sbin/apache2'

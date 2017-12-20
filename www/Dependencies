@@ -1,0 +1,24 @@
+Dependencies
+
+php-yaml
+
+
+
+
+
+
+
+
+
+####
+
+
+routes needed 
+
+
+host/invoice/list (paginated)
+host/invoice/{id}/paid
+host/invoice/{id}/unpaid
+host/invoice/report
+
+host/customer/report
