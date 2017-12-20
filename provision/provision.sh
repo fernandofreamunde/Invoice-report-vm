@@ -3,7 +3,7 @@
 ProjectDomain="invoice-app.dev";
 MySQLRootPW="pw";
 RootFolder="/var/www/html";
-PublicFolder="$RootFolder/Src";
+PublicFolder="$RootFolder/Public";
 DatabaseName="invoice";
 PathToData="$RootFolder/docs/database.sql";
 
