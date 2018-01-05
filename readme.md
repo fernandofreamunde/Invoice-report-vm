@@ -9,7 +9,7 @@ On provisioning it will install a classic LAMP stack with Apache2, PHP-7.0, comp
 
 ### How to use
 
-- [] If you want to, add the domain to /etc/hosts file like so:
+- [ ] If you want to, add the domain to /etc/hosts file like so:
 ```
 192.168.33.10 invoice-app.dev
 ```
