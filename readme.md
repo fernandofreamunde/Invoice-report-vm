@@ -13,7 +13,7 @@ On provisioning it will install a classic LAMP stack with Apache2, PHP-7.0, comp
 ```
 192.168.33.10 invoice-app.dev
 ```
-- [ ] use git to clone the repo into the www folder inside this virtual machine projectl(create it if needed)
+- [ ] use git to clone the repo(git@github.com:fernandofreamunde/Invoice-report.git) into the www folder inside this virtual machine project(create it if needed)
 - [ ] Run `vagrant up`
 - [ ] Go get a coffee or just wait a bit, as Vagrant is Slow...
 - [ ] When the last step is finnished, visit the domain you configured on a web browser
