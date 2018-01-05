@@ -46,7 +46,7 @@ Vagrant.configure("2") do |config|
   # the path on the guest to mount the folder. And the optional third
   # argument is a set of non-required options.
   #config.vm.synced_folder "provision", "/home/ubuntu/provision"
-  config.vm.synced_folder "../invoice-system", "/var/www/html"
+  config.vm.synced_folder "www", "/var/www/html"
   config.vm.synced_folder "logs", "/var/log/apache2"
 
   config.vm.provision "shell", path: "provision/provision.sh", privileged: false

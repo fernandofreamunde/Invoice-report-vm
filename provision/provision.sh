@@ -85,7 +85,7 @@ echo "Done!";
 #phpinfo();" > info.php;
 #sudo mv info.php $RootFolder/info.php;
 
-echo "Installing composer...";
+#echo "Installing composer...";
 #curl -sS https://getcomposer.org/installer | php;
 #sudo mv composer.phar /usr/local/bin/composer;
 #echo "Done!";

@@ -13,10 +13,10 @@ On provisioning it will install a classic LAMP stack with Apache2, PHP-7.0, comp
 ```
 192.168.33.10 invoice-app.dev
 ```
-
-- [] Run `vagrant up`
-- [] Go get a coffee or just wait a bit...
-- [] When the last step is finnished, visit the domain you configured on a web browser
+- [ ] use git to clone the repo into the www folder inside this virtual machine projectl(create it if needed)
+- [ ] Run `vagrant up`
+- [ ] Go get a coffee or just wait a bit, as Vagrant is Slow...
+- [ ] When the last step is finnished, visit the domain you configured on a web browser
 
 In case you didnt add the Domain please use the ip address 192.168.33.10.
 
